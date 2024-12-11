@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c6edd02.css",
-    "main.js": "/static/js/main.6ea463ef.js",
-    "index.html": "/index.html",
-    "main.1c6edd02.css.map": "/static/css/main.1c6edd02.css.map",
-    "main.6ea463ef.js.map": "/static/js/main.6ea463ef.js.map"
+    "main.css": "/Tweetforce/static/css/main.1c6edd02.css",
+    "main.js": "/Tweetforce/static/js/main.6ea463ef.js",
+    "index.html": "/Tweetforce/index.html",
+    "main.1c6edd02.css.map": "/Tweetforce/static/css/main.1c6edd02.css.map",
+    "main.6ea463ef.js.map": "/Tweetforce/static/js/main.6ea463ef.js.map"
   },
   "entrypoints": [
     "static/css/main.1c6edd02.css",
