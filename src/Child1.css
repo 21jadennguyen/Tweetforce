@@ -1,0 +1,13 @@
+.child1 .controls {
+  margin-top: 20px;
+  margin-left: 40px;
+  font-weight: bold;
+}
+
+.selected-tweets {
+  width: 80%;
+}
+
+.selected-tweets .tweet {
+  padding: 5px;
+}
